@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayse</h1>
-<h3 align="center">A enthusiastic full-stack developer</h3>
+<h3 align="center">An enthusiastic full-stack developer</h3>
 
 - 📫 How to reach me **aysegngrmz.91@windowslive.com**
 
