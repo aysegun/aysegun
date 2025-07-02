@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayse</h1>
 <h3 align="center">An enthusiastic full-stack developer 💻</h3>
 
-- 🌱 I’m currently learning **React**
 - 📫 How to reach me **aysegngrmz.91@windowslive.com**
 - 👨‍💻 All of my projects are available at [https://troopl.com/aysegungormez](https://troopl.com/aysegungormez)
 
