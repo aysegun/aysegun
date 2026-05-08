@@ -20,13 +20,6 @@ My work spans Rails backends, modern JavaScript frontends, and data-driven featu
 
 ---
 
-<h3>Selected Projects</h3>
-<ul>
-  <li><strong>Dream Visualizer</strong> – interactive full-stack application with dynamic frontend</li>
-  <li><strong>Global Counsel Hub</strong> – structured platform with focus on UI and data organization</li>
-  <li><strong>Transaction Management App</strong> – Rails-based application with business logic and CRUD operations</li>
-</ul>
-
 <p>
 👉 <a href="https://aysegun.github.io">View full portfolio</a>
 </p>
